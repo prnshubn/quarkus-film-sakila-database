@@ -1,4 +1,4 @@
-# quarkus-practice-film-sakila-database
+# quarkus-film-sakila-database
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
